@@ -18,7 +18,7 @@ body {
 	position: absolute;
 	left: 0; top: 158px; bottom: 0;
 	width: 160px;
-	background-color: #5071FF;
+	background-color: rgb(80, 120, 255);
 }
 
 h1 {
