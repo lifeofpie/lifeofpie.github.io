@@ -12,12 +12,12 @@ body {
 	left: 0; top: 0;
 	width: 178 px; height: 92px;
 	background-image: url("http://imgur.com/XzfbaCu");
-	background-size: 92px 90px;
+	background-size: contain;
 }
 
 .pictures {
 	position: absolute;
-	left: 0; top: 92; bottom: 0;
+	left: 0; top: 92px; bottom: 0;
 	width: 178px;
 	background-color: #5071FF;
 }
