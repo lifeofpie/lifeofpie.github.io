@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
-	background-color: #899EFF;
+	background-color: #E7ECFF;
 }
 
 .pictures {
@@ -12,13 +12,14 @@ body {
 	left: 0; top: 0; bottom: 0;
 	width: 178px;
 	background-color: #5071FF;
-	padding-top: 95;
+	padding-top: 95px;
 }
 
 h1 {
 	position: absolute;
 	left:178px; right:0;
 	height: 92px;
+	margin-left: 5px;
 }
 
 .main {
