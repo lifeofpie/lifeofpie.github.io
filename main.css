@@ -41,7 +41,10 @@ h1 {
 	left:160px; right:0;
 	height: 158px;
 	margin-left: 5px;
-	h1 {
-		font-size: 60px;
-	}
+	text-align: left;
+	font-size: 60px;
+}
+
+.blog-item {
+	border: 2px solid black;
 }
