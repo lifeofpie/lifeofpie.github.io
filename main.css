@@ -10,20 +10,21 @@ body {
 .logo {
 	position: absolute;
 	left: 0; top: 0;
-	width: 178 px; height: 92px;
+	width: 160 px; height: 158px;
+	margin: 0;
 }
 
 .pictures {
 	position: absolute;
-	left: 0; top: 92px; bottom: 0;
-	width: 178px;
+	left: 0; top: 158px; bottom: 0;
+	width: 160px;
 	background-color: #5071FF;
 }
 
 h1 {
 	position: absolute;
-	left:178px; right:0;
-	height: 130px;
+	left:160px; right:0;
+	height: 158px;
 	margin-left: 5px;
 	font-size: 80px;
 }
