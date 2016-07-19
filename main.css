@@ -33,7 +33,7 @@ h1 {
 	position: absolute;
 	left: 160px; right: 0;
 	top: 158px; bottom: 0;
-	margin-left: 5px;
+	margin: auto;
 }
 
 .blog-item {
