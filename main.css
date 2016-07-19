@@ -9,8 +9,8 @@ body {
 .info {
 	background-image: url('http://i.imgur.com/bl1J9OP.jpg');
 	background-position: center top;
-	background-size: cover;
+	background-size: contain;
 	margin: 30px;
-	text-shadow: 0 2px #5877A3;
+	color: #5877A3;
 	
 }
