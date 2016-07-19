@@ -36,6 +36,7 @@ h1 {
 	left: 165px; right: 0;
 	top: 158px; bottom: 0;
 	margin-left: 15px;
+	display: inline;
 }
 
 .blog-item {
