@@ -27,7 +27,7 @@ h1 {
 	position: absolute;
 	left:160px; right:0;
 	height: 150px;
-	margin-left: 10px;
+	margin-left: 15px;
 	font-size: 80px;
 }
 
@@ -35,13 +35,13 @@ h1 {
 	position: absolute;
 	left: 165px; right: 0;
 	top: 158px; bottom: 0;
-	margin-left: 10px;
+	margin-left: 15px;
 }
 
 .blog-item {
 	border: 2px solid black;
 	border-radius: 20px;
-	margin-left: 10px;
+	margin: 10px;
 	padding: 5px;
 	text-align: left;
 }
