@@ -14,7 +14,7 @@ body {
 	margin: 0;
 }
 
-.pictures {
+.sidebar {
 	position: absolute;
 	left: 0; top: 158px; bottom: 0;
 	width: 160px;
