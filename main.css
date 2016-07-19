@@ -1,3 +1,16 @@
 body {
 	font-family: Cursive, verdana, serif;
+	height: 100%;
+	margin: 0;
+	text-align: left;
+	width: 100%;
+}
+
+.info {
+	background-image: url('http://i.imgur.com/bl1J9OP.jpg');
+	background-position: center top;
+	background-size: cover;
+	margin: 30px;
+	text-shadow: 0 2px #5877A3;
+	
 }
