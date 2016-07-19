@@ -35,3 +35,11 @@ h1 {
 	top: 158px; bottom: 0;
 	margin-left: 5px;
 }
+
+.blog {
+	position: absolute;
+	left:160px; right:0;
+	height: 158px;
+	margin-left: 5px;
+	font-size: 60px;
+}
