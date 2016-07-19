@@ -24,7 +24,7 @@ body {
 h1 {
 	position: absolute;
 	left:160px; right:0;
-	height: 158px;
+	height: 150px;
 	margin-left: 5px;
 	font-size: 80px;
 }
@@ -39,12 +39,12 @@ h1 {
 .blog {
 	position: absolute;
 	left:160px; right:0;
-	height: 158px;
+	height: 150px;
 	margin-left: 5px;
-	text-align: left;
 	font-size: 60px;
 }
 
 .blog-item {
 	border: 2px solid black;
+	border-radius: 20px;
 }
