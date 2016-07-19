@@ -1,7 +1,7 @@
 body {
 	font-family: Cursive, verdana, serif;
 	height: 100%;
-	margin: 5 px;;
+	margin: 0;
 	text-align: left;
 	width: 100%;
 	background-color: #E7ECFF;
@@ -19,8 +19,7 @@ body {
 	left: 0; top: 158px; bottom: 0;
 	width: 160px;
 	background-color: rgb(80, 120, 255);
-	border-radius: 20px;
-	padding: 5px;
+	margin-left: 5px;
 }
 
 h1 {
@@ -36,17 +35,12 @@ h1 {
 	left: 160px; right: 0;
 	top: 158px; bottom: 0;
 	margin-left: 10px;
-	display: inline;
 }
 
 .blog-item {
 	border: 2px solid black;
 	border-radius: 20px;
-	margin: 10px;
+	margin-left: 10px;
 	padding: 5px;
 	text-align: left;
-}
-
-img {
-	border-radius: 20px;
 }
