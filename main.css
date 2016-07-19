@@ -33,7 +33,6 @@ h1 {
 	position: absolute;
 	left: 160px; right: 0;
 	top: 158px; bottom: 0;
-	text-align: center;
 }
 
 .blog-item {
@@ -45,5 +44,9 @@ h1 {
 }
 
 .pics {
+	margin: auto;
+}
+
+.info {
 	margin: auto;
 }
