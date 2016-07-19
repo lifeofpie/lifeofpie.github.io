@@ -11,8 +11,6 @@ body {
 	position: absolute;
 	left: 0; top: 0;
 	width: 178 px; height: 92px;
-	background-image: url("http://imgur.com/XzfbaCu");
-	background-size: contain;
 }
 
 .pictures {
@@ -25,8 +23,9 @@ body {
 h1 {
 	position: absolute;
 	left:178px; right:0;
-	height: 92px;
+	height: 130px;
 	margin-left: 5px;
+	font-size: 80px;
 }
 
 .main {
