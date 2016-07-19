@@ -19,7 +19,8 @@ body {
 	left: 0; top: 158px; bottom: 0;
 	width: 160px;
 	background-color: rgb(80, 120, 255);
-	margin-left: 5px;
+	border-radius: 20px;
+	padding: 5px;
 }
 
 h1 {
