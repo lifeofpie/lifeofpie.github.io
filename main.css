@@ -18,10 +18,12 @@ h1 {
 	position: absolute;
 	left:0; right:0;
 	height: 92px;
+	margin-left: 183px;
 }
 
 .main {
 	position: absolute;
 	left: 178px; right: 0;
 	top: 92px; bottom: 0;
+	margin-left: 5px;
 }
