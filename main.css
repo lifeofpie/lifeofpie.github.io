@@ -33,7 +33,7 @@ h1 {
 	position: absolute;
 	left: 160px; right: 0;
 	top: 158px; bottom: 0;
-	margin: auto;
+	text-align: center;
 }
 
 .blog-item {
@@ -41,10 +41,9 @@ h1 {
 	border-radius: 20px;
 	margin: 10px;
 	padding: 5px;
+	text-align: left;
 }
 
-.pic {
-	position: absolute;
-	left: 660px;
-	top: 170px;
+.pics {
+	margin: auto;
 }
