@@ -18,7 +18,7 @@ h1 {
 	position: absolute;
 	left:0; right:0;
 	height: 92px;
-	margin-left: 183px;
+	padding-left: 183px;
 }
 
 .main {
