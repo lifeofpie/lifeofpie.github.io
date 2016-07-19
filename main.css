@@ -41,5 +41,7 @@ h1 {
 	left:160px; right:0;
 	height: 158px;
 	margin-left: 5px;
-	font-size: 60px;
+	h1 {
+		font-size: 60px;
+	}
 }
